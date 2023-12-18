@@ -54,7 +54,7 @@ go mod tidy
 go run main.go
  ```
 
-## Featers
+## Feature
 
 - RESTful API
 - Gorm
